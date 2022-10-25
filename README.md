@@ -6,7 +6,7 @@ All of those repositories are the codes of my posts on instagram.
 
 I advise you to use the blender software if you want to run the code of all my posts except the first one.
 
-Please don't forget to follow instagram account @clovis.lfbv to be notified 
+Please don't forget to follow my instagram account @clovis.lfbv to be notified 
 when I publish a new post and leave a like to support me.
 
 ## Working on the files
